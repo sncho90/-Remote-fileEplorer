@@ -1,0 +1,6 @@
+C:\Users\sungm\source\repos\원격 파일 탐색기(c#)\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\sungm\source\repos\원격 파일 탐색기(c#)\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\sungm\source\repos\원격 파일 탐색기(c#)\ClassLibrary1\obj\Debug\PacketClass.csproj.AssemblyReference.cache
+C:\Users\sungm\source\repos\원격 파일 탐색기(c#)\ClassLibrary1\obj\Debug\PacketClass.csproj.CoreCompileInputs.cache
+C:\Users\sungm\source\repos\원격 파일 탐색기(c#)\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\sungm\source\repos\원격 파일 탐색기(c#)\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
